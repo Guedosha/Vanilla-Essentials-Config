@@ -185,6 +185,7 @@ disabled-commands:
   - xp
   - gamemode
   - weather
+  - ping
 #  - nick
 #  - clear
 
