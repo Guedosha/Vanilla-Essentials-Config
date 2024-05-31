@@ -16,6 +16,7 @@ E.g. Not being able to use selectors(@s, @a, @e, etc.) with /kill because their 
    - /xp
    - /gamemode
    - /weather
+   - /ping (which doesn't actually give you your ping but replies with "pong" and overrides other, actually useful, commands that also use /ping)
 2. Disables the easter egg that turns mobs into their baby variety when right clicked with a milk bucket.
 3. Makes the /heal command not remove potion effects(including positive effects for some reason) when ran.
 4. Makes you drop items on the floor when given more with a full inventory instead of deleting them.
