@@ -1,8 +1,8 @@
 # Vanilla Essentials Config
-A modified config for the plugin <a href="https://github.com/EssentialsX/Essentials" target="_blank">EssentialsX</a> that removes its undesirable replacements of vanilla features and makes the plugin act more "vanilla-like."
-<br>
-e.g. Not being able to use selectors(@s, @a, @e, etc.) with /kill because their replacement command doesn't support them(despite not adding any new features that the vanilla command doesn't already have.)<br>
-or /ping which just replies back to you in the chat with "pong" while overriding actually useful commands that allow you to see your ping.
+A modified config for the plugin <a href="https://github.com/EssentialsX/Essentials" target="_blank">EssentialsX</a> that removes its undesirable replacements of vanilla features and makes the plugin act more "vanilla-like."<br>
+e.g. not being able to use selectors(<code>@s</code>, <code>@a</code>, <code>@e</code>, etc.) with <code>/kill</code> because their replacement command doesn't support them(despite not adding any new features that the vanilla command doesn't already have.)<br>
+
+or the <code>/ping</code> command which just replies back to you in the chat with "pong" while overriding actually useful commands that allow you to see your ping.
 
 ## Changes
 1. Disables the EssentialsX version of the following commands, and their aliases, and uses the vanilla ones.
